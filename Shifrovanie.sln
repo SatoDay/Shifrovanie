@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shifrovanie", "Shifrovanie\Shifrovanie.csproj", "{9824DFFD-9A75-47F2-880B-3949AF657DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9824DFFD-9A75-47F2-880B-3949AF657DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9824DFFD-9A75-47F2-880B-3949AF657DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9824DFFD-9A75-47F2-880B-3949AF657DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9824DFFD-9A75-47F2-880B-3949AF657DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AE81630-F632-4DCD-8622-EFEB8369A9CB}
+	EndGlobalSection
+EndGlobal
