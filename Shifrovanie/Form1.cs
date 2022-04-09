@@ -12,8 +12,8 @@ namespace Shifrovanie
 {
     public partial class Form1 : Form
     {
-        private char[] alph1 =("abcdefghijklmnopqrstuvwxyz ").ToCharArray();
-        private char[] alph2 = ("абвгдеёжзийклмнопрстуфхцчщшъыьэюя ").ToCharArray();
+        private char[] alph1 =("abcdefghijklmnopqrstuvwxyz .,!?").ToCharArray();
+        private char[] alph2 = ("абвгдеёжзийклмнопрстуфхцчщшъыьэюя .,!?").ToCharArray();
         private char[] active_alph;
         public Form1()
         {
