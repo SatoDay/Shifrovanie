@@ -24,8 +24,8 @@ namespace Shifrovanie
 
         private void button1_Click(object sender, EventArgs e)
         {
-            char[] text = richTextBox1.Text.ToCharArray();
-            char[] key = textBox1.Text.ToCharArray();
+            char[] text = richTextBox1.Text.ToLower().ToCharArray();
+            char[] key = textBox1.Text.ToLower().ToCharArray();
             int key_index = 0;
 
             string result = "";
@@ -43,8 +43,8 @@ namespace Shifrovanie
 
         private void button2_Click(object sender, EventArgs e)
         {
-            char[] text = richTextBox2.Text.ToCharArray();
-            char[] key = textBox1.Text.ToCharArray();
+            char[] text = richTextBox2.Text.ToLower().ToCharArray();
+            char[] key = textBox1.Text.ToLower().ToCharArray();
             int key_index = 0;
 
             string result = "";
